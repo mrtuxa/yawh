@@ -3,12 +3,12 @@ use std::io;
 fn main() {
     // Schritte für das Waffelrezept
     let recipe = [
-        "Mehl, Backpulver, Zucker und Salz vermischt",
-        "Wasser, Öl und Vanilleextrakt hinzugefügt und gut durchgerührt",
-        "das Waffeleisen vorgeheitzt und leicht eingefettet?",
-        "Teig in das Waffeleisen geben und geschaut das er gleichmäßig verteilt ist und nicht anbrennt",
-        "die Waffeln mit Toppings serviert",
-        "den Tisch abgeräumt und die Küche aufgeräumt"
+        "Eier, Zucker und Butter miteinander verrührt",
+        "Mehl und Backpulver hinzugefügt",
+        "den Teig in die Waffeleisen gegeben",
+        "die Waffeln gebacken",
+        "die Waffeln genossen",
+        "den Abwasch gemacht"
     ];
 
     // Schritte durchlaufen und Benutzereingaben abfragen
