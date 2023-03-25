@@ -9,9 +9,9 @@ To install Yet Another Waffel Helper, you need to have Rust installed on your ma
 Once Rust is installed, you can clone the repository and build the project using the following commands:
 
 ```bash
-git clone https://github.com/yourusername/yet-another-waffel-helper.git
-cd yet-another-waffel-helper
-cargo build --release
+git clone https://github.com/mrtuxa/yawh.git
+cd yawh
+cargo build
 ```
 
 
